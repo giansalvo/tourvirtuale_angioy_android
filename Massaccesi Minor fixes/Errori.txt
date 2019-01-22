@@ -1,0 +1,5 @@
+Da risolvere il problema legato all'assegnazione della variabile cam1
+
+Ricordarsi si invertire tutte le foto a 360 gradi tramite paint
+
+Assegnare texture delle frecce contenute nella cartella foto ed assegnarle ai bottoni (Sphere)
